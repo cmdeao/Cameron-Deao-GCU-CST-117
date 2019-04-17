@@ -1,0 +1,10 @@
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\bin\Debug\CameronDeao_Excercise_1.exe.config
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\bin\Debug\CameronDeao_Excercise_1.exe
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\bin\Debug\CameronDeao_Excercise_1.pdb
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\obj\Debug\CameronDeao_Excercise_1.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\obj\Debug\CameronDeao_Excercise_1.Form1.resources
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\obj\Debug\CameronDeao_Excercise_1.Properties.Resources.resources
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\obj\Debug\CameronDeao_Excercise_1.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\obj\Debug\CameronDeao_Excercise_1.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\obj\Debug\CameronDeao_Excercise_1.exe
+C:\Users\Cameron\source\repos\CameronDeao_Excercise_1\CameronDeao_Excercise_1\obj\Debug\CameronDeao_Excercise_1.pdb
