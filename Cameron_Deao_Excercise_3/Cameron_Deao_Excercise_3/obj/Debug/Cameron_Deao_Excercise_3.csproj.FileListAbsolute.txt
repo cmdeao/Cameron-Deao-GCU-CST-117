@@ -1,0 +1,10 @@
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\bin\Debug\Cameron_Deao_Excercise_3.exe.config
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\bin\Debug\Cameron_Deao_Excercise_3.exe
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\bin\Debug\Cameron_Deao_Excercise_3.pdb
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\obj\Debug\Cameron_Deao_Excercise_3.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\obj\Debug\Cameron_Deao_Excercise_3.Form1.resources
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\obj\Debug\Cameron_Deao_Excercise_3.Properties.Resources.resources
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\obj\Debug\Cameron_Deao_Excercise_3.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\obj\Debug\Cameron_Deao_Excercise_3.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\obj\Debug\Cameron_Deao_Excercise_3.exe
+C:\Users\Cameron\source\repos\Cameron_Deao_Excercise_3\Cameron_Deao_Excercise_3\obj\Debug\Cameron_Deao_Excercise_3.pdb
