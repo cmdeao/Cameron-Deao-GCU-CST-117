@@ -1,0 +1,10 @@
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\bin\Debug\SecondsConversionTool.exe.config
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\bin\Debug\SecondsConversionTool.exe
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\bin\Debug\SecondsConversionTool.pdb
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\obj\Debug\SecondsConversionTool.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\obj\Debug\SecondsConversionTool.Form1.resources
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\obj\Debug\SecondsConversionTool.Properties.Resources.resources
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\obj\Debug\SecondsConversionTool.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\obj\Debug\SecondsConversionTool.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\obj\Debug\SecondsConversionTool.exe
+C:\Users\Cameron\source\repos\SecondsConversionTool\SecondsConversionTool\obj\Debug\SecondsConversionTool.pdb
