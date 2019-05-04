@@ -1,0 +1,10 @@
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\bin\Debug\Exercise_5_Cameron_Deao.exe.config
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\bin\Debug\Exercise_5_Cameron_Deao.exe
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\bin\Debug\Exercise_5_Cameron_Deao.pdb
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\obj\Debug\Exercise_5_Cameron_Deao.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\obj\Debug\Exercise_5_Cameron_Deao.Properties.Resources.resources
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\obj\Debug\Exercise_5_Cameron_Deao.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\obj\Debug\Exercise_5_Cameron_Deao.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\obj\Debug\Exercise_5_Cameron_Deao.exe
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\obj\Debug\Exercise_5_Cameron_Deao.pdb
+C:\Users\Cameron\source\repos\Exercise_5_Cameron_Deao\Exercise_5_Cameron_Deao\obj\Debug\Exercise_5_Cameron_Deao.Pi.resources
