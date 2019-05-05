@@ -1,0 +1,4 @@
+Words in lowercase: this is a test. testing aeioutyu
+First and last word alphabetically: a This
+Longest word: aeioutyu
+Word with most vowels: aeioutyu Total Vowels: 6
