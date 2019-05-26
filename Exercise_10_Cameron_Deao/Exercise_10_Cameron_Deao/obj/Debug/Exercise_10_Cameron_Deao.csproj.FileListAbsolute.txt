@@ -1,0 +1,7 @@
+C:\Users\Cameron\source\repos\Exercise_10_Cameron_Deao\Exercise_10_Cameron_Deao\bin\Debug\Exercise_10_Cameron_Deao.exe.config
+C:\Users\Cameron\source\repos\Exercise_10_Cameron_Deao\Exercise_10_Cameron_Deao\bin\Debug\Exercise_10_Cameron_Deao.exe
+C:\Users\Cameron\source\repos\Exercise_10_Cameron_Deao\Exercise_10_Cameron_Deao\bin\Debug\Exercise_10_Cameron_Deao.pdb
+C:\Users\Cameron\source\repos\Exercise_10_Cameron_Deao\Exercise_10_Cameron_Deao\obj\Debug\Exercise_10_Cameron_Deao.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\Exercise_10_Cameron_Deao\Exercise_10_Cameron_Deao\obj\Debug\Exercise_10_Cameron_Deao.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\Exercise_10_Cameron_Deao\Exercise_10_Cameron_Deao\obj\Debug\Exercise_10_Cameron_Deao.exe
+C:\Users\Cameron\source\repos\Exercise_10_Cameron_Deao\Exercise_10_Cameron_Deao\obj\Debug\Exercise_10_Cameron_Deao.pdb
